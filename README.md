@@ -127,4 +127,4 @@ MATLAB Deep Learning Toolbox
 Research articles on ultrasound tumor detection
 
 
-<h3 align="center">✨ If you like this project, consider giving it a ⭐ on GitHub!</h3> ```
+             ✨ If you like this project, consider giving it a ⭐ on GitHub! 
