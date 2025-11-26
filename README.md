@@ -125,3 +125,6 @@ Breast Ultrasound Images Dataset (Kaggle)
 LeCun et al., Gradient-Based Learning Applied to Document Recognition
 MATLAB Deep Learning Toolbox
 Research articles on ultrasound tumor detection
+
+
+<h3 align="center">✨ If you like this project, consider giving it a ⭐ on GitHub!</h3> ```
